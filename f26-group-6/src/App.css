@@ -135,7 +135,10 @@
       width: 18px;
     }
   }
-
+.button{
+  height: 20px;
+  width: 60px;
+}
   @media (max-width: 1024px) {
     margin-top: 20px;
     flex-wrap: wrap;
